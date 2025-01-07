@@ -2,7 +2,7 @@
   "name": "routing",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://eyad-hamdy98.github.io/reactRouting",
+  "homepage": "https://eyad-hamdy98.github.io/React-Routingnpm install gh-pages --save-dev",
   "type": "module",
   "scripts": {
     "dev": "vite",
